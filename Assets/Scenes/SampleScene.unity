@@ -182,8 +182,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: SET TIMER
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 36b9747255e886b458977b29b58cb9f9, type: 2}
+  m_sharedMaterial: {fileID: 6810890680944673175, guid: 36b9747255e886b458977b29b58cb9f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -207,8 +207,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 68
-  m_fontSizeBase: 68
+  m_fontSize: 83
+  m_fontSizeBase: 83
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -724,8 +724,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 6, y: -19.599998}
-  m_SizeDelta: {x: -20, y: -28.200005}
+  m_AnchoredPosition: {x: 6, y: -17.949997}
+  m_SizeDelta: {x: -20, y: -12.100002}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &723842473
 MonoBehaviour:
@@ -748,7 +748,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: d157b50d4181ef1459423c63af5e5648, type: 3}
     m_FontSize: 44
     m_FontStyle: 2
     m_BestFit: 0
@@ -1223,7 +1223,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 1ceac594e0e8d1642946afda31dd685c, type: 3}
     m_FontSize: 170
     m_FontStyle: 1
     m_BestFit: 0
@@ -1302,7 +1302,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 1ceac594e0e8d1642946afda31dd685c, type: 3}
     m_FontSize: 63
     m_FontStyle: 0
     m_BestFit: 1
