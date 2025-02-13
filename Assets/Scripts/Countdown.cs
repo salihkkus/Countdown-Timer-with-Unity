@@ -8,8 +8,8 @@ public class Countdown : MonoBehaviour
     [SerializeField] private Text timerText;
     [SerializeField] private InputField inputField; // Kullanıcının süre gireceği alan
     [SerializeField] private Button startButton; // Zamanlayıcıyı başlatan buton
-    private float duration;
-    private float currenttime;
+    [SerializeField] private float duration;
+    [SerializeField] private float currenttime;
     
     void Start()
     {
