@@ -11,7 +11,8 @@ A simple countdown timer built with **Unity** that includes start, stop, reset, 
 ## 📸 Screenshots  
 If you have any screenshots, you can add them here:  
 ```
-![Countdown Timer Screenshot][image](https://github.com/user-attachments/assets/69c21bc1-f5ed-433c-bef5-45eb91efc6f9)
+![Countdown Timer Screenshot]![Screenshot 2025-02-16 230754](https://github.com/user-attachments/assets/fbda07d2-624c-4f7c-b629-565d45f30a5c)
+
 ```
 
 ## 🛠️ Installation & Usage  
