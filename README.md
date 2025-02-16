@@ -10,10 +10,9 @@ A simple countdown timer built with **Unity** that includes start, stop, reset, 
 
 ## 📸 Screenshots  
 If you have any screenshots, you can add them here:  
-```
+
 ![Screenshot 2025-02-16 230754](https://github.com/user-attachments/assets/7a007722-c579-4061-8707-47b6c668c508)
 
-```
 
 ## 🛠️ Installation & Usage  
 1. **Clone the repository:**  
