@@ -17,7 +17,7 @@ If you have any screenshots, you can add them here:
 ## 🛠️ Installation & Usage  
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com//salihkkus/Countdown-Timer-with-Unity.git
+   git clone https://github.com/salihkkus/Countdown-Timer-with-Unity.git
    ```
 2. **Open with Unity:**  
    - Launch Unity and open the project.  
