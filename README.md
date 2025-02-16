@@ -11,12 +11,13 @@ A simple countdown timer built with **Unity** that includes start, stop, reset, 
 ## 📸 Screenshots  
 If you have any screenshots, you can add them here:  
 ```
-![Countdown Timer Screenshot](link-to-screenshot.png)
+![Countdown Timer Screenshot][image](https://github.com/user-attachments/assets/69c21bc1-f5ed-433c-bef5-45eb91efc6f9)
 ```
 
 ## 🛠️ Installation & Usage  
 1. **Clone the repository:**  
-   ```sh
+   ```sh!
+
    git clone https://github.com/salihkkus/Countdown-Timer-with-Unity.git
    ```
 2. **Open with Unity:**  
